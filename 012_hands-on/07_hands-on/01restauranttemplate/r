@@ -1,0 +1,5 @@
+go run main.go
+
+go build *.go
+
+go run main.go > main.html
